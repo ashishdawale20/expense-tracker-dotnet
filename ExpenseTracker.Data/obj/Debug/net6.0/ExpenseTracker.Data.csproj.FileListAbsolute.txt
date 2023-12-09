@@ -1,0 +1,14 @@
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net6.0\ExpenseTracker.Data.deps.json
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net6.0\ExpenseTracker.Data.dll
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net6.0\ExpenseTracker.Data.pdb
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.csproj.AssemblyReference.cache
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.AssemblyInfoInputs.cache
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.AssemblyInfo.cs
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.dll
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\refint\ExpenseTracker.Data.dll
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.pdb
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ref\ExpenseTracker.Data.dll
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net6.0\ExpenseTracker.Data.runtimeconfig.json
+C:\Users\nadey\source\repos\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net6.0\ExpenseTracker.Data.genruntimeconfig.cache
